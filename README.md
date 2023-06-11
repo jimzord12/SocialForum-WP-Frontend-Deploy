@@ -24,6 +24,11 @@ Eschewing the use of modern web frameworks like React, I opted for a more founda
 <img src="https://static.vecteezy.com/system/resources/previews/012/697/298/original/3d-javascript-logo-design-free-png.png" alt="Framer Motion" width="100" height="100" /> &nbsp;&nbsp;
 <br />
 
+- **HTML** (HyperText Markup Language, is the standard markup language used to create and design documents on the World Wide Web by defining their structure and layout)
+- **CSS** (Cascading Style Sheets, is a style-sheet language used to describe the look and formatting of a document written in HTML, controlling layout, colors, fonts and more)
+
+- **JavaScript** (A high-level, interpreted programming language primarily used to enhance interactivity and provide rich web content on client-side web applications.)
+
 However, given the nature of this project as a **Decentralized Application (DApp)**, and to improve the **Developer Experience (DX)**, I incorporated several modules. These modules are designed to streamline the coding process and facilitate efficient communication between the application's User Interface (UI) and the Blockchain Network's Smart Contracts, enhancing both the developer's workflow and the application's functionality.
 <br />
 <br />
@@ -38,7 +43,7 @@ However, given the nature of this project as a **Decentralized Application (DApp
 - **Flowbite** (Flowbite is an open-source UI component library built on top of Tailwind CSS and based on the Flowbite Design System)
 - **Ethers.js** (A JS Library, that is required in order to connect the app with the blockchain)
 
-- **MetaMask** (A crypto wallet and gateway to blockchain apps, available as a browser extension and mobile app, primarily used for interacting with Ethereum-based decentralized applications (DApps).)
+- **MetaMask** (A crypto wallet and gateway to blockchain apps, available as a browser extension and mobile app, primarily used for interacting with Ethereum-based decentralized applications (DApps))
   <br />
   <br />
 
