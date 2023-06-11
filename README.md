@@ -271,4 +271,4 @@ This is trully (I pinky swear 🤣) the end of this tutorial!!! Once again, 🎉
 
 <img src="github-readme-imgs/congrats.png" alt="Framer Motion" width="100%" height="100%" /> &nbsp;&nbsp;
 
-> If you are curious about..., and now what? What does this reward represent? And more importantly, how can I use it? <br />Take a look at our Rewarding Tool Documentation: [right here](https://github.com/jimzord12/RewardingTool-Frontend-Deploy/tree/master#description)
+> If you are curious about..., and now what? What does this reward represent? And more importantly, how can I use it? Take a look at our Rewarding Tool Documentation: [right here](https://github.com/jimzord12/RewardingTool-Frontend-Deploy/tree/master#description)
