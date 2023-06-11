@@ -77,16 +77,16 @@ Immediately after, a pop-up window (known as a modal) will appear.
 
 As the modal window description mentions, we must **possess** (have installed as an extension) and also have **connected a crypto wallet (MetaMask) to the website**.
 
-> **No idea what a crypto wallet even is?** You can check a short a recorded: [here (empty)](https://youtube.com/)
+> **No idea what a crypto wallet even is?** You can check a short video I have recorded: [here (empty)](https://youtube.com/)
 
 Futhermore, if you do not desire to get involved in this blockchain madness, you can always just close the window. This window shall not interfere with the rest of the site's provided features or functionality.
 
-Moving forward, I will assume that you have MetaMask installed as an extension in your currently using browser. 
+Moving forward, I will assume that you have MetaMask installed as an extension in your currently using browser.
 
 As we have not yet connected our crypto wallet to the website (common practice when interacting with Dapps) we can click the "Connect Now" button to let MetaMask know that we wish to connect it with the site.
 
-> **A quick note**, if you try to obtain the Reward by clicking the "Get Reward" button without having your wallet connected, this will happen: 
-<br />
+> **A quick note**, if you try to obtain the Reward by clicking the "Get Reward" button without having your wallet connected, this will happen:
+> <br />
 
 <img src="github-readme-imgs/sf-error-modal.png" alt="Framer Motion" width="100%" height="100%" /> &nbsp;&nbsp;
 <br />
@@ -113,44 +113,108 @@ Perfect, now our wallet is connected to the site and we can start interacting wi
 Now, the time has come to go and explore (a little bit) MetaMask and how the web3 cosmos works. Don't worry I will not over do it 😁
 
 1. Open MetaMask
-<br />
+   <br />
 
 <img src="github-readme-imgs/Metamask_Config/sf-metamask-1.png" alt="Framer Motion" width="100%" height="100%" /> &nbsp;&nbsp;
 <br />
 <br />
 
 2. This window will appear
-<br />
+   <br />
 
 <img src="github-readme-imgs/Metamask_Config/sf-metamask-2.png" alt="Framer Motion" width="100%" height="100%" /> &nbsp;&nbsp;
 <br />
 <br />
 
 3. Click the three dots, as shown below
-<br />
+   <br />
 
 <img src="github-readme-imgs/Metamask_Config/sf-metamask-3.png" alt="Framer Motion" width="100%" height="100%" /> &nbsp;&nbsp;
 <br />
 <br />
 
 4. Now, click Expand view
-<br />
-
-<img src="github-readme-imgs/Metamask_Config/sf-metamask-3.png" alt="Framer Motion" width="100%" height="100%" /> &nbsp;&nbsp;
-<br />
-<br />
-
-5. Here I skipped a step, you must click the oval button named, in my case, "Goerli test network". In your case, it probably says "Ethereum Mainnet". Once the dropdown menu appears, click "Add network".
-<br />
+   <br />
 
 <img src="github-readme-imgs/Metamask_Config/sf-metamask-4.png" alt="Framer Motion" width="100%" height="100%" /> &nbsp;&nbsp;
 <br />
 <br />
 
+5. Here I skipped a step, you must click the oval button named, in my case, "Goerli test network". In your case, it probably says "Ethereum Mainnet". Once the dropdown menu appears, click "Add network".
+   <br />
+
+<img src="github-readme-imgs/Metamask_Config/sf-metamask-5.png" alt="Framer Motion" width="100%" height="100%" /> &nbsp;&nbsp;
+<br />
+<br />
+
 > **Why are even doing all of this?** This process is required because the Smart Contracts that hold the logic for the Rewarding System reside inside the GENERA Private Blockchain Network.
 
-> **Networks Analogy**: To wrap your head around all of these different networks concept, think of each network as a separate Planet existing in the Web3 Universe. Each Planet, has its own smart contracts, its own native currency and cannot directly communicate with other Planets. 
+> **Networks Analogy**: To wrap your head around all of these different networks concept, think of each network as a separate Planet existing in the Web3 Universe. Each Planet, has its own smart contracts, its own native currency and cannot directly communicate with other Planets.
 
 > **Conrtacts Analogy**: Now to get a feeling of the Smart Contracts' role in this space, you can think of them as Shops that exist on these Planets. Let's say that I have developed a Smart Contract named "Jimmy's Awesome Pastry" and I deploy it (open the shop publicly) to GENERA's Network. This means, that if an user wishes to buy my insanly tasty creations, he/she will have to come to the GENERA Planet and grab these pastries. However note, that this does not stop me from creating an Pastry Empire across the whole wide Web3 Universe 🤑. But as in the real world, every one of my Pastry Shops will be unique and probably be a little different than the others as it is on another Planet. On each Planet, the requlations, taxes, etc. may be slightly different 😉.
 
-> **Users Perspective Analogy**: When users interact with their Crypto Wallets by changing the network their Wallet is pointing to (as we are about to do in this tutorial) it's like they are teleporting from Planet to Planet. Depending the Planet they are currently on, their assets (digital and/or physical) will change. This is to be expected, as it is like you are in Japan and try to use Euros to pay for something. Their native currency is Yen, so your monetary assets (Euros) will not be acceptable. Futhermore, if your heart longs for the superb paste of my pastries but I have yet to establish a Shop in the Planet your assets are currently reside, you must find a way to convert/swap them for the native currency that is used in a Planet that hosts one of my Shops. This opens an exiting world of finance called DeFi, which is out the scope of this tutorial.
+> **Users Perspective Analogy**: When users interact with their Crypto Wallets by changing the network their Wallet is pointing to (as we are about to do in this tutorial) it's like they are teleporting from Planet to Planet. Depending the Planet they are currently on, their assets (digital and/or physical) will change. This is to be expected, as it is like you are in Japan and try to use Euros to pay for something. Their native currency is Yen, so your monetary assets (Euros) will not be acceptable. Futhermore, if your heart longs for the superb paste of my pastries but I have yet to establish a Shop in the Planet your assets are currently reside, you must find a way to convert/swap them for the native currency that is used in a Planet that hosts one of my Shops. This opens an exiting world of finance called DeFi, which is out the scope of this tutorial, regretfully 😥.
+
+Let's get back on track, by clicking the "Add networks" button you shall be navigated to the page below:
+<br />
+
+6. Click the "Add a network manually" blue link in the bottom
+   <br />
+
+<img src="github-readme-imgs/Metamask_Config/sf-metamask-6.png" alt="Framer Motion" width="100%" height="100%" /> &nbsp;&nbsp;
+<br />
+<br />
+
+7. Then you will see this page, I am not going explain it, every important information is written onto the image
+   <br />
+
+<img src="github-readme-imgs/Metamask_Config/sf-metamask-7.png" alt="Framer Motion" width="100%" height="100%" /> &nbsp;&nbsp;
+<br />
+<br />
+
+8. After that go to the MetaMask's home (if it does not happen automatically) by pressing the MetaMask Logo, found at the top-left corner. Then click once more the Network's oval button, which is next to your Account's Icon.
+   <br />
+
+<img src="github-readme-imgs/Metamask_Config/sf-metamask-8.png" alt="Framer Motion" width="100%" height="100%" /> &nbsp;&nbsp;
+<br />
+<br />
+
+9. And finally, choose the "GENERA" network. Yes, yuo did it! 🎊 Congratulations! 🎊
+   <br />
+
+<img src="github-readme-imgs/Metamask_Config/sf-metamask-9.png" alt="Framer Motion" width="100%" height="100%" /> &nbsp;&nbsp;
+<br />
+<br />
+
+<img src="github-readme-imgs/Metamask_Config/sf-metamask-10.png" alt="Framer Motion" width="100%" height="100%" /> &nbsp;&nbsp;
+<br />
+<br />
+
+<br />
+
+<img src="github-readme-imgs/congrats.png" alt="Framer Motion" width="100%" height="100%" /> &nbsp;&nbsp;
+<br />
+<br />
+
+I hope you didn't think that it was over 😂. I got you there 😋. Don't worry, hold up just a tiny bit more we are almost done. Our final task shall be to change the your Account's Name to make it more user friendly. I will spare you the explanations as it is quite simple, just let the images guide you.
+<br />
+
+<img src="github-readme-imgs/Metamask_Config/sf-metamask-11.png" alt="Framer Motion" width="100%" height="100%" /> &nbsp;&nbsp;
+<br />
+<br />
+
+<img src="github-readme-imgs/Metamask_Config/sf-metamask-12.png" alt="Framer Motion" width="100%" height="100%" /> &nbsp;&nbsp;
+<br />
+<br />
+
+<img src="github-readme-imgs/Metamask_Config/sf-metamask-13.png" alt="Framer Motion" width="100%" height="100%" /> &nbsp;&nbsp;
+<br />
+<br />
+
+<img src="github-readme-imgs/Metamask_Config/sf-metamask-14.png" alt="Framer Motion" width="100%" height="100%" /> &nbsp;&nbsp;
+<br />
+<br />
+
+You are all set! You may go and start enjoying your newly obtained Web3 Powers! All the work you performed here will be paid back when you start interacting with other Dapps as the you have understood all the basics!
+
+Regretfully, we still have to continue the tutorial from where we left of, as we all this sidetrack was about Setting Up Metamask 😅.
