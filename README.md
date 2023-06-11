@@ -56,7 +56,7 @@ From there, you will be able to perform a variety of actions:
 - **Comment Voting**: Vote on the particular Post's **Comments** (available options are: _"Like"_ or _"Dislike"_)
 - **Comment Submission**: Sumbit a Comment expressing your views regarding the specific topic
 
-When performing any of these actions (**_excluding_** the 1st one: _"Content Comsumption"_) you will be prompted with a pop-up window to receive a reward.
+When performing any of these actions (**_except_** the 1st one: _"Content Comsumption"_) you will be prompted with a pop-up window to receive a reward.
 
 > **What is this reward?** You can check out our Rewarding Tool's documentation: [here](https://github.com/jimzord12/RewardingTool-Frontend-Deploy/tree/master#description)
 
@@ -110,7 +110,7 @@ Connection Window Step: 2/2 - Authorize the Connection by clicking the "Connect"
 
 Perfect, now our wallet is connected to the site and we can start interacting with the site's web3 features.
 
-Now, the time has come to go and explore (a little bit) MetaMask and how the web3 cosmos works. Don't worry I will not over do it 😁
+The time has arrived to go and explore (a little bit) MetaMask and how the web3 cosmos works. Don't worry I will not over do it 😁
 
 1. Open MetaMask
    <br />
@@ -153,7 +153,7 @@ Now, the time has come to go and explore (a little bit) MetaMask and how the web
 
 > **Conrtacts Analogy**: Now to get a feeling of the Smart Contracts' role in this space, you can think of them as Shops that exist on these Planets. Let's say that I have developed a Smart Contract named "Jimmy's Awesome Pastry" and I deploy it (open the shop publicly) to GENERA's Network. This means, that if an user wishes to buy my insanly tasty creations, he/she will have to come to the GENERA Planet and grab these pastries. However note, that this does not stop me from creating an Pastry Empire across the whole wide Web3 Universe 🤑. But as in the real world, every one of my Pastry Shops will be unique and probably be a little different than the others as it is on another Planet. On each Planet, the requlations, taxes, etc. may be slightly different 😉.
 
-> **Users Perspective Analogy**: When users interact with their Crypto Wallets by changing the network their Wallet is pointing to (as we are about to do in this tutorial) it's like they are teleporting from Planet to Planet. Depending the Planet they are currently on, their assets (digital and/or physical) will change. This is to be expected, as it is like you are in Japan and try to use Euros to pay for something. Their native currency is Yen, so your monetary assets (Euros) will not be acceptable. Futhermore, if your heart longs for the superb paste of my pastries but I have yet to establish a Shop in the Planet your assets are currently reside, you must find a way to convert/swap them for the native currency that is used in a Planet that hosts one of my Shops. This opens an exiting world of finance called DeFi, which is out the scope of this tutorial, regretfully 😥.
+> **Users Perspective Analogy**: When users interact with their Crypto Wallets by changing the network their Wallet is pointing to (as we are about to do in this tutorial) it's like they are teleporting from Planet to Planet. Depending the Planet they are currently on, their assets (digital and/or physical) will change. This is to be expected, as it is like you are in Japan and try to use Euros to pay for something. Their native currency is Yen, so your monetary assets (Euros) will not be acceptable. Futhermore, if your heart longs for the superb paste of my pastries but I have yet to establish a Shop in the Planet your assets currently reside, you must find a way to convert/swap them for the native currency that is used in a Planet that hosts one of my Shops. This opens an exciting world of finance capabilites called DeFi, which is out the scope of this tutorial, regretfully 😥.
 
 Let's get back on track, by clicking the "Add networks" button you shall be navigated to the page below:
 <br />
@@ -172,14 +172,14 @@ Let's get back on track, by clicking the "Add networks" button you shall be navi
 <br />
 <br />
 
-8. After that go to the MetaMask's home (if it does not happen automatically) by pressing the MetaMask Logo, found at the top-left corner. Then click once more the Network's oval button, which is next to your Account's Icon.
+8. After that go to the MetaMask's home page. If it does not happen automatically, click the MetaMask Logo, lcoated at the top-left corner. Then click once more the Networks' oval button, which is next to your Account's Icon.
    <br />
 
 <img src="github-readme-imgs/Metamask_Config/sf-metamask-8.png" alt="Framer Motion" width="100%" height="100%" /> &nbsp;&nbsp;
 <br />
 <br />
 
-9. And finally, choose the "GENERA" network. Yes, yuo did it! 🎊 Congratulations! 🎊
+9. And finally, choose the "GENERA" network. Yes, you did it! 🎊 Congratulations! 🎊
    <br />
 
 <img src="github-readme-imgs/Metamask_Config/sf-metamask-9.png" alt="Framer Motion" width="100%" height="100%" /> &nbsp;&nbsp;
@@ -215,6 +215,51 @@ I hope you didn't think that it was over 😂. I got you there 😋. Don't worry
 <br />
 <br />
 
-You are all set! You may go and start enjoying your newly obtained Web3 Powers! All the work you performed here will be paid back when you start interacting with other Dapps as the you have understood all the basics!
+You are all set! You may go and start enjoying your newly obtained Web3 Powers! All the work you performed here will be paid back when you start interacting with other Dapps. All that you have learned have turned you from a regular Web 2.0 user into a Web 3.0 specialist (I might exaggerate I little bit 😁)!
 
-Regretfully, we still have to continue the tutorial from where we left of, as we all this sidetrack was about Setting Up Metamask 😅.
+Regrettably, we must pick up the tutorial from where we left off, as all of this was merely a detour, a side quest, in our main adventure 😅.
+
+To get you up to speed, we were about to get our hands on the promised Reward as we interacted with the Social Forum's features.
+
+To achieve this, we only have to click the "Like" or "Dislike" Button once more, and this old modal will appear before our very eyes.
+<br />
+
+<img src="github-readme-imgs/sf-reward-modal.png" alt="Framer Motion" width="100%" height="100%" /> &nbsp;&nbsp;
+<br />
+<br />
+
+> **Ultra fast note**: If you now, that you are already connected, press the "Connect Now" button. Nothing special will happen, the button's text and styles will change in order to remind the User that he/she is already connected 😉
+
+<br />
+
+<img src="github-readme-imgs/sf-reward-modal-alreadyConnected.png" alt="Framer Motion" width="100%" height="100%" /> &nbsp;&nbsp;
+<br />
+<br />
+
+By clicking the "Get Reward!" button...
+<br />
+
+<img src="github-readme-imgs/sf-reward-modal-getReward-1.png" alt="Framer Motion" width="100%" height="100%" /> &nbsp;&nbsp;
+<br />
+<br />
+
+MetaMask will automatically notice that a Web3 feature is about to initialize and it will open a window.
+<br />
+If you don't really feel like it, just press "Confirm" and do not pay attention to image's information. It's not necessary to understand it now.
+<br />
+
+<img src="github-readme-imgs/sf-reward-modal-getReward-2.png" alt="Framer Motion" width="100%" height="100%" /> &nbsp;&nbsp;
+<br />
+<br />
+
+After confirming the transition (don't worry about it, in blockchain everything is a transaction 😐) you ought to wait patiently until the Network's nodes start performing their mystic arts in order for your transaction to be evaluated and confirmed. The duration for a transaction to be approved, is very volatile because it depends on a variety of variables. But in our particular Network it can take from 10 up to 60 seconds.
+
+At some point, the transaction will be approved. You will be notified of this event by the alert message that is going to be shown at the bottom-right corner of the page. Important, if you refresh the page or do anything similar the alert message will not appear.
+
+This is trully (I pickie promise 🤣) the end of this tutorial!!! Once again, 🎉🎉 Congratulation 🎉🎉
+
+<br />
+
+<img src="github-readme-imgs/congrats.png" alt="Framer Motion" width="100%" height="100%" /> &nbsp;&nbsp;
+
+> If you are curious about..., and now what? What does this reward represent? And more importantly, how can I use it? <br />Take a look at our Rewarding Tool Documentation: [right here](https://github.com/jimzord12/RewardingTool-Frontend-Deploy/tree/master#description)
