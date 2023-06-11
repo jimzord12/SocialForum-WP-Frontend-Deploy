@@ -34,3 +34,4 @@ However, given the nature of this project as a **Decentralized Application (DApp
 
 - **MetaMask** (A crypto wallet and gateway to blockchain apps, available as a browser extension and mobile app, primarily used for interacting with Ethereum-based decentralized applications (DApps).)
   <br />
+
