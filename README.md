@@ -2,7 +2,12 @@
 
 GENERA Project: The Platform's Social Forum Web Application
 <br />
-This Web Application is only a part of the Genera's official website. You can check it out by going [here](https://life-genera.eu/index.php/forum-undec-dev/)
+<br />
+
+<img src="github-readme-imgs/sf-home-page.png" alt="Framer Motion" width="100%" height="100%" /> &nbsp;&nbsp;
+<br />
+
+This Web Application is only a part of the Genera's official website. You can check it out by going: [here](https://life-genera.eu/index.php/forum-undec-dev/)
 <br />
 
 ## Technologies
@@ -35,3 +40,22 @@ However, given the nature of this project as a **Decentralized Application (DApp
 - **MetaMask** (A crypto wallet and gateway to blockchain apps, available as a browser extension and mobile app, primarily used for interacting with Ethereum-based decentralized applications (DApps).)
   <br />
 
+## Website Guide
+
+Once you visit the website, you will be greeted with the page presented in top of this document.
+
+By clicking on any Post (currently available are: "The MERN Stack" and "Most Popular Web Development Tech-Stack (2023)") you shall be navigated to the Post's page. For this tutorial, I will be choosing the: "The MERN Stack".
+
+From there, you will be able to perform a variety of actions:
+<br />
+
+- **Consume the static contect** (in simpler terms, read the Post's text)
+- **Post Voting**: Vote on the particular **Post's Content** (available options are: _"Like"_ or _"Dislike"_)
+- **Comment Voting**: Vote on the particular Post's **Comments** (available options are: _"Like"_ or _"Dislike"_)
+- **Comment Submission**: Sumbit a Comment expressing your views regarding the specific topic
+
+When performing any of these actions (**_excluding_** the 1st one: _"Content Comsumption"_) you will be prompted with a pop-up window to receive a reward.
+
+> **What is this reward?** You can check out our Rewarding Tool's documentation: [here](https://github.com/jimzord12/RewardingTool-Frontend-Deploy/tree/master#readme)
+
+For our tutorial, I will be performing the "Comment Voting
