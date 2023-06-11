@@ -144,8 +144,6 @@ The time has arrived to go and explore (a little bit) MetaMask and how the web3 
    <br />
 
 <img src="github-readme-imgs/Metamask_Config/sf-metamask-5.png" alt="Framer Motion" width="100%" height="100%" /> &nbsp;&nbsp;
-<br />
-<br />
 
 > **Why are even doing all of this?** This process is required because the Smart Contracts that hold the logic for the Rewarding System reside inside the GENERA Private Blockchain Network.
 
@@ -172,7 +170,7 @@ Let's get back on track, by clicking the "Add networks" button you shall be navi
 <br />
 <br />
 
-8. After that go to the MetaMask's home page. If it does not happen automatically, click the MetaMask Logo, lcoated at the top-left corner. Then click once more the Networks' oval button, which is next to your Account's Icon.
+8. After that go to the MetaMask's home page. If it does not happen automatically, click the MetaMask Logo, located at the top-left corner. Then click once more the Networks' oval button, which is next to your Account's Icon.
    <br />
 
 <img src="github-readme-imgs/Metamask_Config/sf-metamask-8.png" alt="Framer Motion" width="100%" height="100%" /> &nbsp;&nbsp;
@@ -256,7 +254,13 @@ After confirming the transition (don't worry about it, in blockchain everything 
 
 At some point, the transaction will be approved. You will be notified of this event by the alert message that is going to be shown at the bottom-right corner of the page. Important, if you refresh the page or do anything similar the alert message will not appear.
 
-This is trully (I pickie promise 🤣) the end of this tutorial!!! Once again, 🎉🎉 Congratulation 🎉🎉
+<br />
+
+<img src="github-readme-imgs/sf-reward-modal-getReward-3.png" alt="Framer Motion" width="100%" height="100%" /> &nbsp;&nbsp;
+<br />
+<br />
+
+This is trully (I pinky swear 🤣) the end of this tutorial!!! Once again, 🎉🎉 Congratulation 🎉🎉
 
 <br />
 
