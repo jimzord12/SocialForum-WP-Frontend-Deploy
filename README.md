@@ -39,7 +39,7 @@ However, given the nature of this project as a **Decentralized Application (DApp
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/1200px-MetaMask_Fox.svg.png" alt="Metamask Wallet" width="100" height="100" /> &nbsp;&nbsp;&nbsp;&nbsp;
 <br />
 
-- **TailWind CSS** (A utility-first CSS framework packed with predefined classes that can be composed to build any design, directly in your markup)
+- **Tailwind CSS** (A utility-first CSS framework packed with predefined classes that can be composed to build any design, directly in your markup)
 - **Flowbite** (Flowbite is an open-source UI component library built on top of Tailwind CSS and based on the Flowbite Design System)
 - **Ethers.js** (A JS Library, that is required in order to connect the app with the blockchain)
 
