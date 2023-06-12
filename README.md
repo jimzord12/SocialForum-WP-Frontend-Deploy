@@ -150,6 +150,8 @@ The time has arrived to go and explore (a little bit) MetaMask and how the web3 
 
 <img src="github-readme-imgs/Metamask_Config/sf-metamask-5.png" alt="Framer Motion" width="100%" height="100%" /> &nbsp;&nbsp;
 
+### Web3 Explanation Point
+
 > **Why are even doing all of this?** This process is required because the Smart Contracts that hold the logic for the Rewarding System reside inside the GENERA Private Blockchain Network.
 
 > **Networks Analogy**: To wrap your head around all of these different networks concept, think of each network as a separate Planet existing in the Web3 Universe. Each Planet, has its own smart contracts, its own native currency and cannot directly communicate with other Planets.
